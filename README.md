@@ -8,7 +8,6 @@
 
 - <a href="https://github.com/pedrojesus44">Pedro🎙</a>
 - <a href="https://github.com/miguelvent">Vent🧛🏽‍♂️</a>
-- <a href="https://github.com/nicolas-oliiveira">Nicolas⛹🏿‍♀️</a>
 
 
 
